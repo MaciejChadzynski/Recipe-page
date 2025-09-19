@@ -59,6 +59,9 @@ li {
 /* MINI CONTAINER */
 .cont-small {
     margin: 3em auto;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 20px;
+    padding: 0.1em 1em;
 }
 
 .cont-small-title {
@@ -106,6 +109,7 @@ footer {
 
     .cont-small {
         margin: 2em 0;
+        background-color: hsl(330, 100%, 98%);
     }
 
     body {
